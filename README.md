@@ -5,4 +5,4 @@
 ## main.ipynb  -- 亚型数量设置为2时各算法的输出结果
 ## main-cluster2.ipynb  -- 亚型数量设置为2时各算法的输出结果
 ## main-cluster3.ipynb  -- 亚型数量设置为2时各算法的输出结果
-## *pkl -- 模型文件
+## *.pkl -- 模型文件
